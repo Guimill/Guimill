@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Guimill
 - 👀 I’m interested in Data analysis, spatial analysis and design
-- 🌱 I’m currently learning web design, db management, fullstack and I did a lot of data analysis during my master degree in eco engineering
-- 💞️ I’m looking for what we call an "apprentissage" in web design / FullStack around Nantes
+- 🌱 I’m currently a ingeneer in the data injection for Orange in the field of optical fibers
 - 📫 How to reach me : guillaume.milleret@gmail.com
